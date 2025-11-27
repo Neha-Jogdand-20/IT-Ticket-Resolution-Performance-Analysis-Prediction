@@ -58,5 +58,5 @@ Add a real-time ticket monitoring system
 
 Neha Jogdand
 Data Analyst | Python | SQL | Power BI | Machine Learning|Excel|
-🔗 LinkedIn: https://www.linkedin.com/in/neha-jogdand
+🔗 LinkedIn: https://www.linkedin.com/in/neha-jogdand-1145b42a6
 📧 Email: nehajogdand20@gmail.com
